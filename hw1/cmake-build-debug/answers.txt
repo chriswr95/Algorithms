@@ -1,0 +1,29 @@
+Doublet's Puzzle: 
+Importing dictionary... (this may take a few minutes)
+Path from black to white: black brack brace trace trice trite write white 
+Path from tears to smile: tears sears stars stare stale stile smile 
+Path from small to giant: small stall stalk stack slack black brack bract brant grant giant 
+Path from stone to money: stone shone shine chine chins coins corns cores cones coney money 
+Path from angel to devil: No Path
+Path from amino to right: amino amine amide abide abode anode anole anile anise arise prise prime prims prams trams trans tuans turns burns burnt buret beret beget begot bigot bight right 
+Path from amigo to signs: amigo amino amine amide abide abode anode anole anile anise arise prise prime prims prams trams trans tuans turns burns burnt buret beret beget begot bigot bight sight sighs signs 
+Enter a graph: 
+Read graph: 
+4 6
+d b c a 
+d: a c b 
+b: a c d 
+c: a b d 
+a: b c d 
+
+complete1.txt complete? 1
+Enter a graph: 
+Read graph: 
+4 5
+d b c a 
+d: a c 
+b: a c 
+c: a b d 
+a: b c d 
+
+complete2.txt complete? 0

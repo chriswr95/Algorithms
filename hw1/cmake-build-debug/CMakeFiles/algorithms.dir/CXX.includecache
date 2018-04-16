@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chriswright/src/algorithms/graph.h
+iostream
+-
+string
+-
+vector
+-
+cassert
+-
+algorithm
+-
+unordered_set
+-
+unordered_map
+-
+queue
+-
+stack
+-
+
+/Users/chriswright/src/algorithms/main.cpp
+iostream
+-
+fstream
+-
+graph.h
+/Users/chriswright/src/algorithms/graph.h
+
