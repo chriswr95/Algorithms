@@ -408,16 +408,11 @@ public:
             ans.add_vertex(v);
         }
 
-//        std::cout << "Euler Path: " << std::endl;
-
         for(size_t i = 0; i < eulerCycle.size() - 1; i++){
-//            std::cout << eulerCycle[i] << "-->";
             ans.add_edge(eulerCycle[i], eulerCycle[i + 1]);
         }
-//        std::cout << eulerCycle.back() << "-->" << eulerCycle.front() << std::endl;
         ans.add_edge(eulerCycle.back(), eulerCycle.front());
 
-//        std::cout << std::endl;
         return ans;
     }
 
