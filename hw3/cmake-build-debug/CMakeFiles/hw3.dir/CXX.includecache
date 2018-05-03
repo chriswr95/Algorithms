@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chriswright/src/algorithms/hw3/digraph.h
+string
+-
+unordered_map
+-
+unordered_set
+-
+vector
+-
+cassert
+-
+iostream
+-
+algorithm
+-
+stack
+-
+list
+-
+
+/Users/chriswright/src/algorithms/hw3/main.cpp
+iostream
+-
+fstream
+-
+digraph.h
+/Users/chriswright/src/algorithms/hw3/digraph.h
+
