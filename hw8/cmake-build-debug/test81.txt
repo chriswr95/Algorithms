@@ -1,0 +1,6 @@
+4 4
+Warriors Cavaliers Rockets Lakers
+Warriors Cavaliers 0.5
+Warriors Rockets 1.7
+Cavaliers Lakers 0.1
+Rockets Lakers 3.4

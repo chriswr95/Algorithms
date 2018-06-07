@@ -1,0 +1,6 @@
+4 4
+Warriors Cavaliers Rockets Lakers
+Warriors Cavaliers 0
+Cavaliers Rockets 0
+Rockets Lakers 0
+Lakers Warriors 0
